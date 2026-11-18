@@ -1,6 +1,8 @@
 # sample-super-store-business-analysis
 Analisis bisnis dataset Sample Superstore (2014-2017): 6 pertanyaan bisnis dijawab dengan Google Sheets (Pivot Table, QUERY) dan dashboard Looker Studio 3 halaman. Temuan utama: yang paling laku belum tentu paling untung.
 
+| [Buka Dashboard Looker Studio](https://datastudio.google.com/reporting/bab61a4c-6302-45ae-9219-67a9c8e5382c) | [Lihat Spreadsheet](https://docs.google.com/spreadsheets/d/1TqJDSmsc-Rd_ykwGQoR-7yScp8fsuTBaYyWGc-kaeFY/edit?usp=sharing) |
+
 ## Ringkasan dataset
 | Item | Nilai |
 | :--- | :---: |
